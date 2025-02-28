@@ -6,5 +6,8 @@ authors = ["Your Name <you@example.com>"]
 requires-python = ">=3.11"
 dependencies = [
     "flask>=3.1.0",
+    "mixpanel>=4.10.1",
     "sendgrid>=6.11.0",
+    "sentry-sdk>=2.22.0",
+    "supabase>=2.13.0",
 ]
